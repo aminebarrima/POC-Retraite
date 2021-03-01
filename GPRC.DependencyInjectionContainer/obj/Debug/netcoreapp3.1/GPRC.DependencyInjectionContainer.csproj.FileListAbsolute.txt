@@ -1,0 +1,16 @@
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.csprojAssemblyReference.cache
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.AssemblyInfoInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.AssemblyInfo.cs
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.deps.json
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.core.application.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.core.domaine.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.persistance.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.core.application.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.persistance.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\bin\Debug\netcoreapp3.1\GPRC.core.domaine.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.csproj.CopyComplete
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.DependencyInjectionContainer\obj\Debug\netcoreapp3.1\GPRC.DependencyInjectionContainer.pdb

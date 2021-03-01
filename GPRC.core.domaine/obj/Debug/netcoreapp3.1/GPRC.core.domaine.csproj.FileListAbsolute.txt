@@ -1,0 +1,9 @@
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\bin\Debug\netcoreapp3.1\GPRC.core.domaine.deps.json
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\bin\Debug\netcoreapp3.1\GPRC.core.domaine.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\bin\Debug\netcoreapp3.1\GPRC.core.domaine.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\obj\Debug\netcoreapp3.1\GPRC.core.domaine.AssemblyInfoInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\obj\Debug\netcoreapp3.1\GPRC.core.domaine.AssemblyInfo.cs
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\obj\Debug\netcoreapp3.1\GPRC.core.domaine.csproj.CoreCompileInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\obj\Debug\netcoreapp3.1\GPRC.core.domaine.dll
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\obj\Debug\netcoreapp3.1\GPRC.core.domaine.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\GPRC.core.domaine\obj\Debug\netcoreapp3.1\GPRC.core.domaine.csprojAssemblyReference.cache

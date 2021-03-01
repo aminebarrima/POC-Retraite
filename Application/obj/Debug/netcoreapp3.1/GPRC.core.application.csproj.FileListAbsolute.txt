@@ -1,0 +1,12 @@
+C:\Users\abarrima\source\repos\POC_Retraite\Application\bin\Debug\netcoreapp3.1\GPRC.core.application.deps.json
+C:\Users\abarrima\source\repos\POC_Retraite\Application\bin\Debug\netcoreapp3.1\GPRC.core.application.dll
+C:\Users\abarrima\source\repos\POC_Retraite\Application\bin\Debug\netcoreapp3.1\GPRC.core.application.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\Application\bin\Debug\netcoreapp3.1\GPRC.core.domaine.dll
+C:\Users\abarrima\source\repos\POC_Retraite\Application\bin\Debug\netcoreapp3.1\GPRC.core.domaine.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.csprojAssemblyReference.cache
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.AssemblyInfoInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.AssemblyInfo.cs
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.csproj.CoreCompileInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.csproj.CopyComplete
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.dll
+C:\Users\abarrima\source\repos\POC_Retraite\Application\obj\Debug\netcoreapp3.1\GPRC.core.application.pdb

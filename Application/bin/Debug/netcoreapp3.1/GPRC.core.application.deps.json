@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GPRC.core.application/1.0.0": {
+        "dependencies": {
+          "GPRC.core.domaine": "1.0.0"
+        },
+        "runtime": {
+          "GPRC.core.application.dll": {}
+        }
+      },
+      "GPRC.core.domaine/1.0.0": {
+        "runtime": {
+          "GPRC.core.domaine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GPRC.core.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GPRC.core.domaine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.persistance.deps.json
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.persistance.dll
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.core.application.dll
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.core.domaine.dll
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.core.application.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.core.domaine.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.csprojAssemblyReference.cache
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.AssemblyInfoInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.AssemblyInfo.cs
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.csproj.CopyComplete
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.persistance.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.dll
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.pdb
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.persistance.runtimeconfig.json
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\bin\Debug\netcoreapp3.1\GPRC.persistance.runtimeconfig.dev.json
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.csproj.CoreCompileInputs.cache
+C:\Users\abarrima\source\repos\POC_Retraite\gprc.persistance\obj\Debug\netcoreapp3.1\GPRC.persistance.genruntimeconfig.cache
